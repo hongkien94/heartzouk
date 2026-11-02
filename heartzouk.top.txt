@@ -1,0 +1,6 @@
+;;
+;; Domain:     heartzouk.top.
+;; Exported:   2026-11-02 20:04:07
+;;
+
+www	300	IN	A	14.231.49.246
